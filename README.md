@@ -1,4 +1,4 @@
 ## Project Belajar Web
 
 **Nama:** MUHAMMAD AL GIFAR   
-**KELAS:** X PPLG 1
+**Kelas:** X PPLG 1
